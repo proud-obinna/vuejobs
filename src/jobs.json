@@ -1,0 +1,200 @@
+{
+  "jobs": [
+    {
+      "type": "Full-Time",
+      "title": "Senior Vue Devs",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
+      "salary": "$90K - $100K",
+      "location": "Boston, MA",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      },
+      "id": "1"
+    },
+    {
+      "id": "5",
+      "title": "Full Stack Vue Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "location": "Atlanta, GA",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Vue Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "location": "Portland, OR",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "0421",
+      "type": "Full-Time",
+      "title": "Rae Slater",
+      "description": "Accusamus deserunt s",
+      "salary": "$150K - $175K",
+      "location": "Dolor animi quas do",
+      "company": {
+        "name": "Burns and Carr LLC",
+        "description": "Impedit dolore duis",
+        "contactEmail": "pogog@mailinator.com",
+        "contactPhone": "+1 (241) 117-8235"
+      }
+    },
+    {
+      "type": "Part-Time",
+      "title": "Addison Rivasssss",
+      "description": "Quae ut et non neces",
+      "salary": "$70K - $80K",
+      "location": "Sequi animi quod pl",
+      "company": {
+        "name": "Stevens Arnold Trading",
+        "description": "Hic quaerat similiqu",
+        "contactEmail": "qygyteqe@mailinator.com",
+        "contactPhone": "+1 (428) 773-1359"
+      },
+      "id": "c491"
+    },
+    {
+      "id": "419a",
+      "type": "Part-Time",
+      "title": "Julie Paul",
+      "description": "Nostrud quis id volu",
+      "salary": "$90K - $100K",
+      "location": "Reprehenderit nisi i",
+      "company": {
+        "name": "Tyson Brady Associates",
+        "description": "Molestiae necessitat",
+        "contactEmail": "momuxigun@mailinator.com",
+        "contactPhone": "+1 (835) 209-8828"
+      }
+    },
+    {
+      "id": "0dba",
+      "type": "Part-Time",
+      "title": "Adena Ballard",
+      "description": "Consequatur minima ",
+      "salary": "Under $50K",
+      "location": "Dolore velit ut ea ",
+      "company": {
+        "name": "Santana and Kirk Inc",
+        "description": "Lorem fuga Id sunt",
+        "contactEmail": "zeqerymela@mailinator.com",
+        "contactPhone": "+1 (616) 783-3437"
+      }
+    },
+    {
+      "id": "1edd",
+      "type": "Internship",
+      "title": "Aaron Ray",
+      "description": "Fugit eos anim ad ",
+      "salary": "$90K - $100K",
+      "location": "Quibusdam laborum is",
+      "company": {
+        "name": "Hernandez Parker LLC",
+        "description": "Sunt ipsum magna min",
+        "contactEmail": "kivu@mailinator.com",
+        "contactPhone": "+1 (672) 363-6483"
+      }
+    },
+    {
+      "id": "24bc",
+      "type": "Part-Time",
+      "title": "Claire Mccall",
+      "description": "Praesentium sed eum ",
+      "salary": "$60K - $70K",
+      "location": "Sit ut aspernatur q",
+      "company": {
+        "name": "Lewis and Chapman Trading",
+        "description": "Quia adipisicing ali",
+        "contactEmail": "walyjaq@mailinator.com",
+        "contactPhone": "+1 (946) 927-3304"
+      }
+    },
+    {
+      "id": "76ab",
+      "type": "Internship",
+      "title": "Beau Lawrence",
+      "description": "Pariatur Optio sun",
+      "salary": "$50K - $60K",
+      "location": "Tenetur magnam culpa",
+      "company": {
+        "name": "Lancaster and Brewer Trading",
+        "description": "Hic laudantium in a",
+        "contactEmail": "pyxa@mailinator.com",
+        "contactPhone": "+1 (597) 179-5572"
+      }
+    },
+    {
+      "id": "cb96",
+      "type": "Full-Time",
+      "title": "Tanya Norris",
+      "description": "Ullam nihil autem so",
+      "salary": "$175K - $200K",
+      "location": "Similique ea enim fu",
+      "company": {
+        "name": "Page Sherman Associates",
+        "description": "Molestiae blanditiis",
+        "contactEmail": "dahoro@mailinator.com",
+        "contactPhone": "+1 (178) 483-3263"
+      }
+    },
+    {
+      "id": "9df3",
+      "type": "Internship",
+      "title": "Unity Sweet",
+      "description": "Recusandae Consequa",
+      "salary": "$60K - $70K",
+      "location": "Dolorem dicta veniam",
+      "company": {
+        "name": "Foreman and Crosby Inc",
+        "description": "Sunt nostrud deserun",
+        "contactEmail": "ricutetote@mailinator.com",
+        "contactPhone": "+1 (803) 151-6305"
+      }
+    },
+    {
+      "id": "cb1b",
+      "type": "Internship",
+      "title": "Kibo Hudson",
+      "description": "Voluptatem Repudian",
+      "salary": "$100K - $125K",
+      "location": "Voluptatem dolor est",
+      "company": {
+        "name": "Grimes and Morrow LLC",
+        "description": "Ut qui laboriosam a",
+        "contactEmail": "xexizy@mailinator.com",
+        "contactPhone": "+1 (483) 487-6265"
+      }
+    },
+    {
+      "type": "Full-Time",
+      "title": "Amethyst Warner",
+      "description": "Quos libero ipsum fa",
+      "salary": "Under $50K",
+      "location": "Tempor architecto ul",
+      "company": {
+        "name": "Randolph and Head Plc",
+        "description": "Quia expedita corpor",
+        "contactEmail": "dymuge@mailinator.com",
+        "contactPhone": "+1 (176) 831-8442"
+      },
+      "id": "0386"
+    }
+  ]
+}
